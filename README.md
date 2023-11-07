@@ -44,3 +44,7 @@ result in register.
 15. Write a program to find the smallest number in an array
 
 16. Write a program to search a number in an array
+
+17. Write a program to sort an array in ascending order
+
+18. Write a program to sort an array in descending order
